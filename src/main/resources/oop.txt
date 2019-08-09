@@ -1,0 +1,129 @@
+    ABAP
+    Ada 95
+    AmigaE
+    Apex
+    BETA
+    Boo
+    C++
+    C#
+    Ceylon
+    Chapel
+    Clarion
+    CLU
+    COBOL
+    Cobra
+    ColdFusion
+    Common Lisp
+    COOL
+    CorbaScript
+    Curl
+    D
+    Dart
+    DataFlex
+    Dylan
+    E
+    Eiffel
+        Sather
+    Elixir
+    Fortran 2003
+    FPr
+    FreeBASIC
+    F-Script
+    F#
+    Gambas
+    Genie
+    Go
+    Graphtalk
+    IDLscript
+    J
+    J#
+    JADE
+    Java
+        Groovy
+        Join Java
+        X10
+    Julia
+    Kotlin
+    Lasso
+    Lava
+    Lexico
+    Lingo
+    LISP
+    Logtalk
+    MATLAB
+    Modula-3
+    Nemerle
+    NetRexx
+    Nim
+    Noop
+    Oberon (Oberon-1)
+        Oberon-2
+    Object Pascal
+        Delphi
+        Free Pascal
+        Turbo Pascal
+    Object REXX
+    Objective-C
+    OCaml
+
+
+
+    Omnis Studio
+    OpenEdge Advanced Business Language
+    Oz, Mozart Programming System
+    Perl since v5
+    PHP since v4, greatly enhanced in v5
+    Power Builder
+    Prototype-based languages
+        Actor-Based Concurrent Languages: ABCL/1, ABCL/R, ABCL/R2, ABCL/c+
+        Agora
+        Cecil
+        ECMAScript
+            ActionScript
+            JavaScript
+            JScript
+        Etoys (in Squeak)
+        Io
+        Lua
+        Lisaac
+        MOO
+        NewtonScript
+        Obliq
+        REBOL
+        Self
+    Python
+    REALbasic
+    Ruby
+    Rust
+    S
+        R
+    Scala
+    Scriptol
+    Seed7
+    SenseTalk
+    Simula
+    Smalltalk
+        Self
+        Bistro
+        Squeak
+            Pharo
+            Newspeak
+    Squirrel
+    Swift
+    TADS
+    Tcl
+        Xotcl (similar to CLOS)
+        incr Tcl (itcl; similar to C++)
+    Transcript
+    TypeScript
+    Ubercode
+    Vala
+    Visual Basic
+        Visual Basic .NET (VB.NET)
+        VBScript
+        Visual Basic for Applications (VBA)
+    Visual FoxPro
+    Visual Prolog
+    XBase++ (extends xBase standard language)
+    Xojo
+    ZZT-oop
