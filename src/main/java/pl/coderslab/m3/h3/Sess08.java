@@ -29,10 +29,17 @@ public class Sess08 extends HttpServlet {
     public static final String CAPITAL = "capital";
     private Country[] countries= {
             new Country("Niemcy","Berlin"),
+<<<<<<< HEAD
             new Country("Czechy","Praga"),
             new Country("Słowacja","Bratysława"),
             new Country("Ukraina","Kijów"),
             new Country("Białoruś","Mińsk"),
+=======
+//            new Country("Czechy","Praga"),
+//            new Country("Słowacja","Bratysława"),
+//            new Country("Ukraina","Kijów"),
+//            new Country("Białoruś","Mińsk"),
+>>>>>>> origin/master
             new Country("Litwa","Wilno")};
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
